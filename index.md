@@ -19,3 +19,6 @@ Some interesting links:
 * [Keplerian Finance](http://keplerianfinance.com/)
 * Ali Rahimi's [NIPS 2017](https://www.youtube.com/watch?v=Qi1Yry33TQE) talk (was fortunate to be in the audience)
 * [Magic](http://magicaj.com/)
+
+
+---
