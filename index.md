@@ -18,3 +18,4 @@ Some interesting links:
 * [Camel Caravan](https://www.youtube.com/watch?v=2ADqnuFxwzs) with Matta Taal on tabla by me and original composition on guitar by [Haris](http://hariskr.com/).
 * [Keplerian Finance](http://keplerianfinance.com/)
 * Ali Rahimi's [NIPS 2017](https://www.youtube.com/watch?v=Qi1Yry33TQE) talk (was fortunate to be in the audience)
+* [Magic](http://magicaj.com/)
