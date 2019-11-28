@@ -18,7 +18,7 @@ title: Ayman J. Singh
 description: >- # this means to ignore newlines until "baseurl:"
   Ayman Jot Singh works in quantitative finance in New York City and is a graduate of Carnegie Mellon University. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ayman.im" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://ayman.im" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aymanjsingh
 github_username:  aymanim
 linkedin_username: aymanjsingh
