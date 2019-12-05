@@ -33,7 +33,8 @@ header_pages:
     - about.md
     - lasik.md
     
-google_analytics: UA-33210248-2
+google_analytics: UA-33210248-1
+
 
 
 # Exclude from processing.
