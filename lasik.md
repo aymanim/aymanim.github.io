@@ -15,6 +15,7 @@ Some topics I will touch:
 * Post-procedure healing 
 
 **Disclaimer**: This is just my research, and not any sort of medical advice. 
+
 **References**: Are at the bottom, and cited as `[X.N]`
 
 
@@ -173,19 +174,29 @@ The procedure itself was very quick.
 # Resources
 R.1 : https://eyewiki.aao.org/Main_Page
 
+
 C.1 : *[Corneal Regeneration After Photorefractive Keratectomy: A Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4502084/)*
+
 C.2: *[LASIK complications](https://eyewiki.aao.org/LASIK_Complications)*
+
 C.3: *[Five years results of PRK for myopia.](https://www.ncbi.nlm.nih.gov/pubmed/9278794)*
 Note: This is from 1997. It suggests that patients with large pre-operative myopia could see regression even 5 years out with PRK. 
+
 C.4: *[Long-term Outcomes of Flap Amputation After LASIK](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5562162/)*
 Note: Seven patients present with issues with the flap over the course of 15 years at this institute. 
+
 C.5: *[LVC: No Longer Out of Bounds for Athletes](https://www.reviewofoptometry.com/article/lvc-no-longer-out-of-bounds-for-athletes)*
+
 C.6: *[Laser refractive surgery in the United States Navy.](https://www.ncbi.nlm.nih.gov/pubmed/18545015)*
+
 C.7: *[High incidence of rainbow glare after femtosecond laser assisted-LASIK using the upgraded FS200 femtosecond laser](https://bmcophthalmol.biomedcentral.com/articles/10.1186/s12886-018-0734-1)*
 
+
 D.1: *[Two-year results of femtosecond assisted LASIK versus PRK for different severity of astigmatism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5859517/)*
+
 D.2: *[A Comparison of Visual Outcomes and Patient Satisfaction Between PRK and Femtosecond LASIK](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5665689/)*
 Note the conclusion: *Our study shows superior visual outcomes in patients undergoing FAL (Femtosecond LASIK). However, we found a higher satisfaction rate in those that underwent PRK, perhaps due to the higher cost of FAL.*
+
 D.3: *[A prospective, randomized, fellow eye comparison of WaveLight® Allegretto Wave® Eye-Q versus VISX CustomVue™ STAR S4 IR™ in laser in situ keratomileusis (LASIK): analysis of visual outcomes and higher order aberrations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3198407/)*
 
 
