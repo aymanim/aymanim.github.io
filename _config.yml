@@ -32,6 +32,9 @@ plugins:
 header_pages:
     - about.md
     - lasik.md
+    
+google_analytics: UA-33210248-2
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
