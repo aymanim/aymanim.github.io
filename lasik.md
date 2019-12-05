@@ -21,7 +21,9 @@ Some topics I will touch:
 
 # Motivation
 I have been thinking about getting laser assisted corrective surgery for more than a decade. Every few years, I would get my candidacy evaluated. I was always considered a good candidate for both LASIK and PRK. Around 2016, after moving to New York, my contact lenses started to feel more and more uncomfortable, and so, I started thinking about actually getting the surgery done.
+
 My prescription was around `-7.00 D spherical` and `-3.00 cylindrical` — So, pretty high myopia and astigmatism. I had been on glasses for `17 years`, and contact lenses for `12 years`. 
+
 I visited Dr. Kelly to get my eyes evaluated and he said that I was a candidate, answered a large number of questions I had, and mentioned that due to the high astigmatism, there was a chance that I would need a touch up 3 months after the procedure. It was good to be aware of this as I made my decision. 
 
 # Pre-procedure research
@@ -44,8 +46,11 @@ This was the most difficult question to answer. First, some background. There ar
 
 
 **Corneal epithelial** layer lies on top of **corneal stroma** layer. 
+
 The goal is to **reshape the corneal stroma** by _vaporizing_ (**ablation**) parts of it using a laser (**excimer**). 
+
 But to get to the **stroma**, we have to go through the **epithelial** in some way.
+
 There are two ways to get through the **epithelial** to reach the **stroma**:
 * Vaporize the epithelial. Take it out, throw it away. It will regrow. **This is PRK**. 
 * Make a cut so that it can open up like a flap. After the procedure, replace it back. The epithelial will regrow a bit around the boundary of the flap, securing it. **This is LASIK**. 
@@ -126,7 +131,9 @@ Modern LASIK uses two lasers:
 
 ### LASIK center
 
-I decided to ultimately go with [Dr. James Kelly](https://www.kellylaser.com/). He had among the highest reviews in the NYC area. After meeting him, I immediately felt comfortable in discussing my concerns, options, etc. He was kind, patient but also straight forward, which is what I was looking for. Additionally, he thousands of procedures under his belt, which was an important consideration for me. I liked how much attention he gave to my eyes and how patient he was with all of my questions and concerns. An example of this patience is that it took me 3 years from the first time I saw Dr. Kelly to actually getting the procedure done; and he was always happy to answer any questions and concerns I had. One unexpected benefit of this was that he ended up having 3 years of data on my eyes. This would reduce the unpredictability in outcome. It was a small bonus that he used the [WaveLight](https://www.kellylaser.com/custom-lasik/lasik/wavelight-ex500-excimer-laser/) excimer instead of the VSX (although I was not actively seeking out a WaveLight over VSX). 
+I decided to ultimately go with [Dr. James Kelly](https://www.kellylaser.com/).
+
+He had among the highest reviews in the NYC area. After meeting him, I immediately felt comfortable in discussing my concerns, options, etc. He was kind, patient but also straight forward, which is what I was looking for. Additionally, he thousands of procedures under his belt, which was an important consideration for me. I liked how much attention he gave to my eyes and how patient he was with all of my questions and concerns. An example of this patience is that it took me 3 years from the first time I saw Dr. Kelly to actually getting the procedure done; and he was always happy to answer any questions and concerns I had. One unexpected benefit of this was that he ended up having 3 years of data on my eyes. This would reduce the unpredictability in outcome. It was a small bonus that he used the [WaveLight](https://www.kellylaser.com/custom-lasik/lasik/wavelight-ex500-excimer-laser/) excimer instead of the VSX (although I was not actively seeking out a WaveLight over VSX). 
 
 
 
@@ -151,20 +158,35 @@ The procedure itself was very quick.
 # Post-procedure healing
 
 * **Few hours after procedure**
+
     After waking up, I could see without the need for any glasses(!). Based on some rudimentary tests at home, I seemed to have 20/20, which was quite miraculous. My eyes were sensitive to light. I immediately noticed **halo effect**, which was quite pronounced. And I saw a slight **rainbow effect**. Eyes were not that dry (perhaps thanks to the tear duct plugs)
+    
 * **Next 24 hours**
+
     Kept up with my eye drop schedule. Eyes were a little dry but not as bad as I was expecting at all. Eyes were quite "normal". The halo effect and rainbow effect seemed to get a little better. 
+    
 * **First followup 32 hours post op**
-    Healing was going fine. Tested **20/15 minus a few letters**. The 20/20 line was relatively easy to see. The eyes were a bit sensitive to light, and I think with reduced sensitivity, the 20/15 line would have been readable too. 
+
+    Healing was going fine. Tested **20/15 minus a few letters**. 
+    
+    The 20/20 line was relatively easy to see. The eyes were a bit sensitive to light, and I think with reduced sensitivity, the 20/15 line would have been readable too. 
+    
 * **Next few weeks**
+
     Finished my dose of the medicated eye drops. Generally the eyes were very stable now. I was taking precautions like keeping them lubricated (they help with the healing process) and using blue light filter glasses to reduce the strain on the eyes. I generally kept hydration levels up. 
-    The halo effect seems to have reduced, although I do notice a bit more of the rainbow effect, more in one eye than the other. I called the Dr.'s office about this and they said it was perfectly normal. 
+
+   The halo effect seems to have reduced, although I do notice a bit more of the rainbow effect, more in one eye than the other. I called the Dr.'s office about this and they said it was perfectly normal. 
+   
 * **Three week follow up**
     Tested 20/15 minus 1 or 2 characters.  
+    
     Healing is going well
+    
     And most importantly, it looks like both the myopia and astigmatism (!) are completely gone. As mentioned above, I was concerned about potential touch ups to correct any residual astigmatism. 
+    
     Dr. Kelly mentioned that the halo and rainbow effects are normal and they will subside over time. 
     
+
 
 
 
