@@ -178,6 +178,7 @@ The procedure itself was very quick.
    The halo effect seems to have reduced, although I do notice a bit more of the rainbow effect, more in one eye than the other. I called the Dr.'s office about this and they said it was perfectly normal. 
    
 * **Three week follow up**
+
     Tested 20/15 minus 1 or 2 characters.  
     
     Healing is going well
@@ -187,6 +188,7 @@ The procedure itself was very quick.
     Dr. Kelly mentioned that the halo and rainbow effects are normal and they will subside over time. 
     
 * **Ten weeks (2.5 months)**
+
     Largely, the eyes have become *normal*. During the day time, the only issue about once a day is that I prefer to lubricate the eys. At night, however, there is still some lingering halo and occasional rainbow glare. It has diminished significantly over the last few months, but still remains. 
     
     Next follow up with Dr. Kelly will be in about a month. 
