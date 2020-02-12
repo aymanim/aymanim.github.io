@@ -20,6 +20,7 @@ Some interesting links:
 * Ali Rahimi's [NIPS 2017](https://www.youtube.com/watch?v=Qi1Yry33TQE) talk (was fortunate to be in the audience)
 * [Magic](http://magicaj.com/)
 * [Old project](https://web.archive.org/web/20030204014853/http://www.anamy.com/) (with [Anup Ghatage](http://ghatage.com)).
+* My [Erdos number is 5](/erdos)
 
 
 ---
