@@ -192,6 +192,11 @@ The procedure itself was very quick.
     Largely, the eyes have become *normal*. During the day time, the only issue about once a day is that I prefer to lubricate the eys. At night, however, there is still some lingering halo and occasional rainbow glare. It has diminished significantly over the last few months, but still remains. 
     
     Next follow up with Dr. Kelly will be in about a month. 
+    
+    
+* **4 Months**
+
+   Went in to see Dr. Kelly. He was very happy with the progress of the eyes. He gave me some advice on how to deal with the allergy season. Now, this was all pre-corona. After the coronavirus outbreak, I have not been able to go out in the night to evalute the halo effects. Indoors, the eyes feel absolutely normal. 
 
 
 
