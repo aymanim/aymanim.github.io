@@ -206,7 +206,7 @@ The procedure itself was very quick.
 
    Eyes largely feel normal. There is some minor latent halo during the night, and no rainbow effect. Eyes are at 20/15 in both. Zero astigmatism.
    
-* **22 Months**
+* **22 Months** (September 2021)
 
    Probably the shortest visit I have had. Everything seems good. Feels like even the halo is going down more now. 20/15 and no astigmatism. 
 
