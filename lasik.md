@@ -194,11 +194,23 @@ The procedure itself was very quick.
     Next follow up with Dr. Kelly will be in about a month. 
     
     
-* **4 Months**
+* **4 Months** (March 2020)
 
-   Went in to see Dr. Kelly. He was very happy with the progress of the eyes. He gave me some advice on how to deal with the allergy season. Now, this was all pre-corona. After the coronavirus outbreak, I have not been able to go out in the night to evalute the halo effects. Indoors, the eyes feel absolutely normal. 
+   Went in to see Dr. Kelly. He was very happy with the progress of the eyes. He gave me some advice on how to deal with the allergy season. Now, this was all pre-corona. After the coronavirus outbreak, I have not been able to go out in the night to evalute the halo effects. Indoors, the eyes feel absolutely normal.
 
+* **10 Months** (September 2020)
+   
+   Relatively smooth visit. Generally the eyes feel quite normal, with very minor halo in the night. No rainbow effect. There is still a little bit of dryness. The Dr. added some punctal plugs. 
+   
+* **16 Months** (March 2021)
 
+   Eyes largely feel normal. There is some minor latent halo during the night, and no rainbow effect. Eyes are at 20/15 in both. Zero astigmatism.
+   
+* **22 Months**
+
+   Probably the shortest visit I have had. Everything seems good. Feels like even the halo is going down more now. 20/15 and no astigmatism. 
+
+   
 
 ----------
 
