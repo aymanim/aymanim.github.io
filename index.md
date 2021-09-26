@@ -8,8 +8,6 @@ layout: onlycontent
 
 I currently work at PDT Partners in New York City.  [See more here](/about).
 
-(**2019**) I got LASIK recently. [See details here](/lasik). 
-
 
 Some interesting links:
 
